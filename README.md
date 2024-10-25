@@ -1,7 +1,7 @@
 <h1>Comparing Files with Hash Values</h1>
 
 <h2>Description</h2>
-This project focuses on the creation and comparison of hash values to evaluate data integrity and security. I will explore the process of generating hash values for files, followed by utilizing the <code>cmp</code> command to analyze and compare these hash files. Through this investigation, I will uncover potential discrepancies between files that may initially appear identical, highlighting the importance of thorough data evaluation before making informed business decisions.
+This project focuses on the creation and comparison of hash values to evaluate data integrity and security. I will explore the process of generating hash values for files, followed by utilizing the <code>cmp</code> command to analyze and compare these hash files. A hash value is a fixed-size string of characters generated from data using a hashing algorithm. It acts like a digital fingerprint for data, ensuring data integrity. Even a tiny change in the original data will result in a completely different hash. Through this investigation, I will uncover potential discrepancies between files that may initially appear identical, highlighting the importance of thorough data evaluation before making informed business decisions.
 
 <h2>Languages and Utilities Used</h2>
 
